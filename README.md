@@ -2,9 +2,7 @@
 Text PreProcessing using few Advanced Libraries
 # Preprocessing Text Python Package
 
-#### Course Link: https://bit.ly/intro_nlp
-
-This python package is prepared by YourName.
+This python package is prepared by Pabba Sankar.
 
 Install
 
